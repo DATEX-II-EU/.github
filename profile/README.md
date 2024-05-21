@@ -1,17 +1,12 @@
-The latest mobilityDCAT-AP specification is available at: https://w3id.org/mobilitydcat-ap
+This is the community for teh DATEXII standard.
 
-The main repositories managed by this organisation are:
+Repositories managed:
 
-📝 mobilityDCAT-AP repository: https://github.com/mobilityDCAT-AP/mobilityDCAT-AP
+[DatexII](https://github.com/DATEX-II-EU/DatexII) - Main repository for issuemanagement.
 
-Hosting of versioned drafts and releases of the mobilityDCAT-AP specification (ReSpec) and publication via GitHub Pages
-Maintenance of mobilityDCAT-AP specification through Issues
-Wiki for mobilityDCAT-AP
-📑Controlled Vocabularies repository: https://github.com/mobilityDCAT-AP/controlled-vocabularies
+[Profiles](https://github.com/DATEX-II-EU/Profiles) - Repository for profiles of the DATEXII model, organised by major version and country.
 
-Base Excel files and scripts for the generation/update of vocabularies
-Hosting of versioned controlled vocabularies and publication via GitHub Pages
-Maintenance of the controlled vocabularies through Issues
-👥 Adopters repository: https://github.com/mobilityDCAT-AP/adopters
+[Extensions](https://github.com/DATEX-II-EU/Extensions) - Repository for extensions to the DATEXII model, organised by major version.
 
-List of adopters of mobilityDCAT-AP
+[Webinars](https://github.com/DATEX-II-EU/Webinar) - Repository for webinars on DATEXII, organised by year and number
+
