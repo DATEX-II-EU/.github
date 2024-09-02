@@ -4,7 +4,7 @@ This is the community for the DATEXII standard.
 
 Repositories managed:
 
-- [DatexII](https://github.com/DATEX-II-EU/DatexII) - Main repository for issuemanagement.
+- [DatexII](https://github.com/DATEX-II-EU/DatexII/issues) - Main repository for issuemanagement.
 
 - [Profiles](https://github.com/DATEX-II-EU/Profiles) - Repository for profiles of the DATEXII model, organised by major version and country.
 
