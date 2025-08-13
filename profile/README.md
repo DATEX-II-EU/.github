@@ -1,6 +1,6 @@
-This is the community for the DATEXII standard.
+This is the GitHub community for the DATEXII standard.
 
-[UML Model version 3.5](https://datex-ii-eu.github.io/datexiimodel/)
+See also the [documentation site](https://docs.datex2.eu/)
 
 Repositories managed:
 
